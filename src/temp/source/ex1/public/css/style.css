@@ -1,0 +1,17 @@
+
+.img-fluid{
+    margin-bottom: 10px
+}
+.items{
+    padding-top: 150px;
+}
+.navbar {
+    padding: .5rem 0 !important;
+}
+.content h2{
+    color: #d57d39;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgba(247, 156, 37, 0.986);
+    border-bottom: 1px rgb(245, 156, 54) solid;
+}
